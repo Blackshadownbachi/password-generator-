@@ -1,4 +1,3 @@
-GNU nano 7.2                           shadow.sh
 cowsay telugu hacks group|lolcat
 echo        "password genrator tool"
 sleep 1
